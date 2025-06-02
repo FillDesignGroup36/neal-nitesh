@@ -52,8 +52,8 @@
 ### 🤝 Let’s Connect!
 
 - 🌐 **Website:** [Fill Design Group](https://filldesigngroup.com)
-- 📧 **Email:** [info@filldesigngroup.com](mailto:info@filldesigngroup.com)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/) *(update with your LinkedIn profile)*
+- 📧 **Email:** [info@filldesigngroup.com](mailto:info@filldesigngroup.com) or [sales@filldesigngroup.com](mailto:sales@filldesigngroup.com)
+- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/nealnitesh-gupta-09150355/) 
 
 ---
 
